@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.poster{
+    background-image: url(./images//Netflix_Poster.webp);
+    background-position: center;
+    background-size: cover;
+    box-shadow:30px 30px 200px 150px black inset !important;
+}
+
